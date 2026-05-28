@@ -1,0 +1,3 @@
+Using model from: /lustre/fsmisc/dataset/HuggingFace_Models/bert-base-uncased
+Saved task probabilities to ../../data/attributions/2022_attributions/bert_inference_outputs/bert_task_probabilities_for_surveyed_teams_2022_without_manually_annotated_ones.json
+Inference complete. Saved to ../../data/attributions/2022_attributions/bert_inference_outputs/bert_classified_tasks_for_surveyed_teams_2022_without_manually_annotated_ones.tsv
