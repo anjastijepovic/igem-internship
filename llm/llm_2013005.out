@@ -1,0 +1,4 @@
+Using model from: /lustre/fsmisc/dataset/HuggingFace_Models/meta-llama/Meta-Llama-3-70B-Instruct
+Loading model from /lustre/fsmisc/dataset/HuggingFace_Models/meta-llama/Meta-Llama-3-70B-Instruct...
+Total prompts to process: 2068
+Saved results to ../../data/attributions/2022_attributions/llm_classification_outputs/llm_classified_tasks_for_surveyed_teams_2022_without_manually_annotated_ones.json and ../../data/attributions/2022_attributions/llm_classification_outputs/llm_classified_tasks_for_surveyed_teams_2022_without_manually_annotated_ones.tsv
