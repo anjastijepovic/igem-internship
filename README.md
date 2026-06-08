@@ -1,2 +1,11 @@
-# igem-internship
-Data Analysis of iGEM Team Organization and Performance
+# Data Analysis of iGEM Team Organization and Performance
+
+# Abstract
+This research project explores how interdisciplinary student teams participating in the international iGEM synthetic biology competition collaborate and how their success depends on individual expertise and aspirations. It uses exploratory data analysis and statistical modeling to investigate how tasks are allocated, how members are connected, how the hierarchy of roles functions within teams, and how individual motivations and experience influence project outcomes. Part of the data was collected through surveys during previous iGEM competitions, while the other part was extracted from various open sources. Ultimately, this project offers new insights into the dynamics of collaborative learning and division of labor in student-led research environments by relating individual survey responses on confidence, experience, and task preference to actual task contribution and performance metrics. In order to make the best use of team task contribution webpages, the project additionally explored how open-source language models can transform unstructured text into analyzable data. According to preliminary findings, different teams’ performance metrics are influenced by both individual-level traits and team-level structures. The performance of language models varied by task: text extraction had high accuracy when compared to a manually annotated dataset, while the classification of contribution texts into predefined task categories had lower accuracy.
+
+# Research questions
+- How does the relationship between team members’ certainty, preferences, experience, and actual task performance shape team organization and influence project performance in iGEM?
+- How accurately can open-source LLMs and fine-tuned BERT-based language models extract and classify team attribution data from unstructured texts?
+
+# Note
+This repository serves as a deliverable to the Master's evaluation of the internship. It is only a copy of the private project repository and contains the Python scripts and Jupyter notebooks developed during the internship. These files document the data extraction, cleaning, transformation, exploratory analysis, modeling, BERT model training, prompt building with LLaMA, and evaluation steps. Data files are not currently included in the repository, as some require anonymization before publication.
